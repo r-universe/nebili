@@ -5,5 +5,5 @@
 [submodule "seurust"]
 	path = seurust
 	url = https://github.com/NebilI/seurust
-	branch = v0.1.2
+	branch = main
 	subdir = seurust
