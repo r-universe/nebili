@@ -1,5 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/nebili/nebili.r-universe.dev
 	branch = HEAD
+[submodule "seurust"]
+	path = seurust
+	url = https://github.com/NebilI/seurust
+	branch = v0.1.2
+	subdir = seurust
