@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/nebili/nebili.r-universe.dev
 	branch = HEAD
+[submodule "harmorust"]
+	path = harmorust
+	url = https://github.com/NebilI/harmony-rs
+	branch = v0.1.0
+	subdir = r/harmorust
 [submodule "seurust"]
 	path = seurust
 	url = https://github.com/NebilI/seurust
